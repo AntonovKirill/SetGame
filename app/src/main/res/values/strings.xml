@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SetGame</string>
+    <string name="register">Play</string>
+    <string name="wrong_nickname">This nickname is already taken</string>
+    <string name="go">New game</string>
+    <string name="connection_problem">Connection error</string>
+    <string name="find">Find set</string>
+    <string name="zero">0</string>
+</resources>
